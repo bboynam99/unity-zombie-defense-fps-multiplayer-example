@@ -45,11 +45,11 @@ I'm not responsible of those personal un-licensed uses!
 
 
 ## Requirements
-- Must run [Score Server](https://github.com/rico345100/unity-zombie-defense-fps-multiplayer-score-server) before game starts. If you didn't, you can't start game. You just stuck in login interface.
+- Must run [Score Server](https://github.com/bboynam99/unity-zombie-defense-fps-multiplayer-score-server) before game starts. If you didn't, you can't start game. You just stuck in login interface.
 
 
 ## How to run
-1. You need public [score server](https://github.com/rico345100/unity-zombie-defense-fps-multiplayer-score-server) and it must be run before game starts.
+1. You need public [score server](https://github.com/bboynam99/unity-zombie-defense-fps-multiplayer-score-server) and it must be run before game starts.
 2. You need Photon's AppID and ChatAppID. Put in them to "/Assets/Photon Unity Networking/Resources/PhotonServerSettings".
 3. Select your closest region. It's just recommendation. I live in South Korea, so I used "Kr" region.
 4. Change URL that Http requests.
@@ -108,5 +108,5 @@ Please write the issue on the github page when you found bugs. But I have no pla
 
 
 ## See Also
-- [Score Server](https://github.com/rico345100/unity-zombie-defense-fps-multiplayer-score-server)
+- [Score Server](https://github.com/bboynam99/unity-zombie-defense-fps-multiplayer-score-server)
 - [Web Scoreboard](https://github.com/rico345100/unity-zombie-defense-fps-multiplayer-scoreboard)
